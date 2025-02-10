@@ -20,3 +20,8 @@ var myVar = "Hello, world!";  //This haves javascript markup
 ``` java
 String hola = "Hello, world!";  //This haves java markup
 ```
+
+
+- [ x ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
